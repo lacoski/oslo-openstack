@@ -30,7 +30,7 @@ oslo.messaging==9.2.1
 oslo.middleware==3.37.0
 oslo.serialization==2.28.1
 oslo.service==1.33.0
-oslo.utils==3.38.0
+oslo.utils==4.10.1
 Paste==3.0.5
 PasteDeploy==2.0.1
 pbr==5.1.1
